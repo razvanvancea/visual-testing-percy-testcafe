@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "testcafe chrome ./tests",
+    "test:headless": "testcafe chrome:headless ./tests",
     "test:percy": "percy exec -- testcafe chrome ./tests"
   },
   "author": "Razvan Vancea",
