@@ -1,4 +1,4 @@
-# Visual testing with Percy and TestCafe
+# Visual Testing with Percy and TestCafe
 
 ## Prerequisites:
 - Account on https://percy.io/
