@@ -1,0 +1,15 @@
+{
+  "name": "percy-testcafe-visual-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:percy": "percy exec -- testcafe chrome ./tests"
+  },
+  "author": "Razvan Vancea",
+  "license": "ISC",
+  "dependencies": {
+    "@percy/testcafe": "^0.2.0",
+    "testcafe": "^1.9.2"
+  }
+}
